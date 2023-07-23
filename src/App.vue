@@ -10,11 +10,11 @@ export default {
   components: { Carousel },
   data: () => ({
     slides: [
-      "https://picsum.photos/id/1032/900/400",
-      "https://picsum.photos/id/1033/900/400",
-      "https://picsum.photos/id/1037/900/400",
-      "https://picsum.photos/id/1035/900/400",
-      "https://picsum.photos/id/1036/900/400",
+      "https://raw.githubusercontent.com/SalmanFarcy78/vue-carousel/master/2.jpg",
+      "https://raw.githubusercontent.com/SalmanFarcy78/vue-carousel/master/3.jpg", 
+      "https://raw.githubusercontent.com/SalmanFarcy78/vue-carousel/master/4.jpg",
+      "https://raw.githubusercontent.com/SalmanFarcy78/vue-carousel/master/1.jpg",
+      "https://raw.githubusercontent.com/SalmanFarcy78/vue-carousel/master/7.jpg",
     ],
   }),
 };
