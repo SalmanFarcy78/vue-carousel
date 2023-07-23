@@ -1,4 +1,6 @@
 <template>
+  <h1>My Sylhet Tour</h1>
+  <h3>Presenting in Carousel By Vue + Vite</h3>
   <carousel :slides="slides" :interval="3000" controls indicators></carousel>
 </template>
 
