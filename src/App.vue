@@ -1,5 +1,5 @@
 <template>
-  <h3>Presenting in Carousel By Vue + Vite</h3>
+  <h1 style = "text-align: center; color: green; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> My Tour Album in Carousel By Vue + Vite </h1>
   <carousel :slides="slides" :interval="3000" controls indicators></carousel>
 </template>
 
